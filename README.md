@@ -6,7 +6,7 @@
 
 <img src="./public/desktop.png" alt="desktop.png">
 
-> DESCRIPTION HERE: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+> In this repertoire, a page made in HTML and CSS, already completed, was transformed into a page in ReactJs. Used for ReactJS language training.
 
 ## Table of contents
 
@@ -23,21 +23,15 @@
 
 Users should be able to:
 
--    DESCRIPTION OF WHAT THE USER CAN DO
-<!--- View the optimal layout for the app depending on their device's screen size
--    See hover states for all interactive elements on the page
--    Add new todos to the list
--    Mark todos as complete
--    Delete todos from the list
--    Filter by all/active/complete todos
--    Clear all completed todos
--    Toggle light and dark mode
--    **Bonus**: Drag and drop to reorder items on the list-->
+-    See the full website
+-    See responsiveness
+-    Take advantage of hover features
+-    Be forwarded to link destinations
 
 ### Links
 
--    Solution URL: URL SOLUTION HERE
--    Live Site URL: URL SITE HERE
+-    Solution URL: https://maykbrito.github.io/nlw-esports-explorer/
+-    Live Site URL: https://nlw-esports-rafael.netlify.app
 
 ### Screenshot
 
@@ -47,7 +41,7 @@ Users should be able to:
 
 -    Mobile
 
-     <img src="bg.jpg" alt="bg.jpg" width="300px" height="700px">
+     <img src="./public/mobile.png" alt="mobile.png" width="300px" height="700px">
 
 ## My process
 
