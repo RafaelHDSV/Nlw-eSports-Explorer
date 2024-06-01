@@ -1,0 +1,25 @@
+[
+	{
+		"href": "https://twitch.com/maykbrito",
+		"src": "twitch.svg",
+		"alt": "Twitch do Mayk Brito"
+	},
+
+	{
+		"href": "https://twitter.com/maykbrito",
+		"src": "twitter.svg",
+		"alt": "Twitter do Mayk Brito"
+	},
+
+	{
+		"href": "https://instagram.com/maykbrito",
+		"src": "instagram.svg",
+		"alt": "Instagram do Mayk Brito"
+	},
+
+	{
+		"href": "https://youtube.com/maykbrito",
+		"src": "youtube.svg",
+		"alt": "Youtube do Mayk Brito"
+	}
+]
