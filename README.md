@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 -    Solution URL: https://maykbrito.github.io/nlw-esports-explorer/
--    Live Site URL: https://nlw-esports-rafael.netlify.app
+-    Live Site URL: https://nlw-esports-rafael.vercel.app/
 
 ### Screenshot
 
