@@ -1,4 +1,3 @@
-import { VisitCountFooter } from '@vieira/analytics/react'
 import './index.css';
 
 import Header from "./components/Header.js";
@@ -7,6 +6,7 @@ import ListItem from "./components/ListItem";
 import gameListData from "./gameListData.json"
 import channelListData from "./channelListData.json"
 import socialListData from "./socialListData.json"
+import { VisitCountFooter } from '@vieira/analytics/react'
 
 function App() {
   return (
@@ -71,6 +71,10 @@ function App() {
           }
         </Section>
       </main>
+
+      <footer className="va-footer">
+        <VisitCountFooter projectKey="nlw-esports" />
+      </footer>
     </div>
   );
 }
