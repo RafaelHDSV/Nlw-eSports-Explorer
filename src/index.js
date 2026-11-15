@@ -1,3 +1,4 @@
+/* board22-redeploy: ensure analytics bundle ships */
 
 import React from 'react';
 import ReactDOM from 'react-dom/client';
